@@ -1,0 +1,15 @@
+C:\Users\Gabox\RiderProjects\LINQProject\bin\Debug\net7.0\LINQProject.exe
+C:\Users\Gabox\RiderProjects\LINQProject\bin\Debug\net7.0\LINQProject.deps.json
+C:\Users\Gabox\RiderProjects\LINQProject\bin\Debug\net7.0\LINQProject.runtimeconfig.json
+C:\Users\Gabox\RiderProjects\LINQProject\bin\Debug\net7.0\LINQProject.dll
+C:\Users\Gabox\RiderProjects\LINQProject\bin\Debug\net7.0\LINQProject.pdb
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.csproj.AssemblyReference.cache
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.AssemblyInfoInputs.cache
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.AssemblyInfo.cs
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.csproj.CoreCompileInputs.cache
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.dll
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\refint\LINQProject.dll
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.pdb
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\LINQProject.genruntimeconfig.cache
+C:\Users\Gabox\RiderProjects\LINQProject\obj\Debug\net7.0\ref\LINQProject.dll
